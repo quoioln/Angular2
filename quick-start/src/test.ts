@@ -18,12 +18,21 @@ declare var require: any;
 
 // Prevent Karma from running prematurely.
 __karma__.loaded = function () {};
-
+ddsdsds
+ds
+d
+sd
+sds
 // First, initialize the Angular testing environment.
 getTestBed().initTestEnvironment(
   BrowserDynamicTestingModule,
   platformBrowserDynamicTesting()
 );
+sdsds
+ds
+ds
+d
+s
 // Then we find all the tests.
 const context = require.context('./', true, /\.spec\.ts$/);
 // And load the modules.
